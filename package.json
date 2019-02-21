@@ -1,0 +1,17 @@
+{
+  "name": "simpleapinode",
+  "version": "1.0.0",
+  "description": "a simple api node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "todotest"
+  },
+  "author": "ojedabotansantiago@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
